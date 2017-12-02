@@ -7,8 +7,6 @@ The demo video can be found https://www.youtube.com/watch?v=Z5ty_rKveVc&t=68s.
 
 The dataset is published https://github.com/NathanUA/SalientClosedBoundaryTrackingDataset.
 
-More information can be found: http://webdocs.cs.ualberta.ca/~xuebin/.
-
 USED LIBRARIES
 ----------------------------------------------
 This implementation is based on `Opencv 2.4.9(3.1.0)`, `Boost 1.63.0` and `ubuntu 14.04 64 bit`.
@@ -52,3 +50,4 @@ Edmonton, AB, Canada, T6G 2E8<br>
 Email:<br>
 xuebin@ualberta.ca<br>
 xuebinua@gmail.com<br>
+Homepage: http://webdocs.cs.ualberta.ca/~xuebin/</br>
