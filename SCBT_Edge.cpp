@@ -38,7 +38,7 @@
 #define edgeLenThre 12//Bowl(15) GarbageBin(25)//edges longer than 12 pixels are saved
 #define areaCnst 0.9//Bowl(0.9) GarbageBin(0.9) area similarity threshold
 #define lenCnst 0.9//Bowl(0.9) GarbageBin(0.9) length similarity threshold
-#define ddOverLen 0.7 //Bowl(0.7) GarbageBin(0.7)MarkCup(1) BookStnd(1) MarkCupContour 0.7
+#define ddOverLen 0.7 //Bowl(0.7) GarbageBin(0.7) MarkCup(1) BookStnd(1) MarkCupContour 0.7
 #define searchLineThre 1.0//possible threhosld: GarbagBin(0.3)
 
 //(w_len*length+w_dd*distDiff)/length = w_len + w_dd*distDiff/length
@@ -325,7 +325,7 @@ int EdgeBreakFit(float xyh[3][4]){
                         iEgEnd +=2;
                     }else{
                         newEdge = 1;
-                        EF_tmp.end_idx = map->segments[i].noPixels-1;中国7岁乒乓球女童美国节目秒杀美国乒乓老将，底下观众全程尖叫
+                        EF_tmp.end_idx = map->segments[i].noPixels-1;
 
                         dividedEF.push_back(EF_tmp);// find the last small edge segment
                         break;
